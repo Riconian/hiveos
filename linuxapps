@@ -1,0 +1,4 @@
+# installation programmes
+sudo apt install synaptic;
+sudo apt install virtualbox;
+sudo apt install remmina;
