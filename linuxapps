@@ -1,4 +1,21 @@
-# installation programmes
+# installation programmes - terminal commands
+
+#This is a GUI package installer
 sudo apt install synaptic;
+
+#This is for oracle virtual machines - maybe of use in the future
 sudo apt install virtualbox;
+
+#This is for remote access
 sudo apt install remmina;
+
+#This is for additional package install commands
+sudo apt-get install aptitude;
+
+#This is for a simple remote desktop
+sudo aptitude install putty
+
+#This is for tools for putty
+sudo aptitude install putty-tools
+
+
